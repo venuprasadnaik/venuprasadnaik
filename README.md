@@ -1,1 +1,1 @@
-![gif](https://raw.githubusercontent.com/shuklaayush/shuklaayush/master/it-guy.gif)
+![gif](https://github.com/venuprasadnaik/venuprasadnaik/blob/master/it-guy.gif)
