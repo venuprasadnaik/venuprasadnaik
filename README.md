@@ -1,5 +1,5 @@
 <h1>Hello, I'm Venuprasad Naik 🙋‍♂️</h1>
-<h2>💻👨‍💻Software Developer at ![Mercedes](https://img.shields.io/static/v1?style=for-the-badge&message=Mercedes&color=242424&logo=Mercedes&logoColor=FFFFFF&label=)</h2>
+<h2>💻👨‍💻Software Developer </h2> at ![Mercedes](https://img.shields.io/static/v1?style=for-the-badge&message=Mercedes&color=242424&logo=Mercedes&logoColor=FFFFFF&label=)
 <hr>
 
 <h3>How to reach me:</h3>
