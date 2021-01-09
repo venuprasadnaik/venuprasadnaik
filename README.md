@@ -1,5 +1,5 @@
 <h1>Hello, I'm Venuprasad Naik 🙋‍♂️</h1>
-<h2>💻👨‍💻Software Developer</h2>
+<h2>💻👨‍💻Software Developer at ![Mercedes](https://img.shields.io/static/v1?style=for-the-badge&message=Mercedes&color=242424&logo=Mercedes&logoColor=FFFFFF&label=)</h2>
 <hr>
 
 <h3>How to reach me:</h3>
@@ -21,12 +21,15 @@
    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
    <br>
    <br>
+   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label="/>&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=OpenID&color=222222&logo=OpenID&logoColor=F78C40&label="/>
+   <br>
+   <br>
    <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JFrog&color=222222&logo=JFrog&logoColor=41BF47&label="/>&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=OpenID&color=222222&logo=OpenID&logoColor=F78C40&label="/>
 </p> 
 
 <hr>
