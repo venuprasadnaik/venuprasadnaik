@@ -36,11 +36,11 @@
 
 
 
-<p>
+
 <img align="left" src='https://github-readme-stats.vercel.app/api?username=venuprasadnaik&show_icons=true&theme=graywhite&count_private=true' />
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venuprasadnaik&count_private=true&theme=graywhite" alt="venuprasadnaik" />
-</p>
+
 
 <p align='left'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=venuprasadnaik.venuprasadnaik"></a>
