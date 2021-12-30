@@ -1,4 +1,4 @@
-![Eana Hufwe](https://github.com/venuprasadnaik/venuprasadnaik/raw/sign.png)
+![Eana Hufwe](https://github.com/venuprasadnaik/venuprasadnaik/sign.png)
 
 <p align="center">
 Inquisitive Programmer who loves building softwares with new technology and try to produce optimal code solutions.<br>
